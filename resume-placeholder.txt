@@ -1,0 +1,4 @@
+Add your resume.pdf to the public folder.
+Rename this file or replace with your actual resume PDF.
+The Resume button in the navbar will link to /resume.pdf
+resume will come.. ok test s
